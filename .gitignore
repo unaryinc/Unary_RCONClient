@@ -1,0 +1,7 @@
+.vs/
+.import/
+.mono/
+bin
+obj
+log.txt
+log.old
