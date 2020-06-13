@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{54F452D1-8AB8-47BE-9F92-34969B2D3E42}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Unary_RCONClient</RootNamespace>
-    <AssemblyName>Unary_RCONClient</AssemblyName>
+    <RootNamespace>Unary.RCONClient</RootNamespace>
+    <AssemblyName>Unary.RCONClient</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

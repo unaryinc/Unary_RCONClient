@@ -9,7 +9,7 @@ using Newtonsoft.Json;
 using LiteNetLib;
 using System.Threading;
 
-namespace Unary_RCONClient
+namespace Unary.RCONClient
 {
     public static class Program
     {

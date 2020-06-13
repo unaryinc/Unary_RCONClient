@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using LiteNetLib;
 using LiteNetLib.Utils;
 
-namespace Unary_RCONClient
+namespace Unary.RCONClient
 {
     public class Client
     {
